@@ -1,10 +1,11 @@
 # Control_Vector_Generator
 
-System Requirements
+# System Requirements
+
 This program is developed in C# using Microsoft Visual Studio 2015. The .exe should run on any windows operating system. 
 This file can not be read by Linux or Mac devices without additional third party software.
 
-Running The Program
+# Running The Program
 To run this program simply download the file, locate it in your computers file explorer and double click the .exe. 
 This will open a terminal window and start requesting user input. The program will ask for an integer value to use as the programs 
 increment amount for updating the program counter(PC). 
